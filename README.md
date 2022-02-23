@@ -1,19 +1,21 @@
-# React Vite Boilerplate
+# About
 
-Install dependencies
+Quick form
 
-```
-npm i
-```
+**Live Demo**
+https://quick-form.surge.sh/
 
-Start dev server
+# How to install
 
-```
-npm run dev
-```
+Run locally: `npm i` && `npm run dev`
+Build, `npm run build`
 
-Bundle assets
+# Technologies/Libraries
 
-```
-npm run build
-```
+- [x] SPA using React/React Hooks
+- [x] Vite
+- [x] Typescript
+- [x] ESLint
+- [x] Prettier
+- [x] Sass
+- ...
